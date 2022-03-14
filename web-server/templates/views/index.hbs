@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Performance Trending Dashboard</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+
+<body>
+    <div class="main-content">
+        {{>header}}
+    </div>
+    <canvas id="myChart"></canvas>
+    {{>footer}}
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+     <script>
+        const ctx = document.getElementById('myChart');
+        const myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: {{{labels}}},
+                datasets: {{{myObj}}}
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    </script> 
+</body>
+</html>

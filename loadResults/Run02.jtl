@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1647230843219,617,T02-GetMetaData,200,OK,Thread Group 1-1,text,true,,1435,196,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,617,0,454
+1647230850939,189,T03-RetreiveaRecord,200,OK,Thread Group 1-1,text,true,,881,214,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1/recbWXrd2plorbwuo,188,0,0
+1647230859925,6,Debug Sampler,200,OK,Thread Group 1-1,text,true,,363,0,1,1,null,0,0,0
+1647230870152,188,T04-Create-Record,422,Unprocessable Entity,Thread Group 1-1,text,false,,879,408,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,188,0,0
+1647230876440,204,T02-GetMetaData,200,OK,Thread Group 1-1,text,true,,1435,196,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,204,0,0
+1647230885975,170,T03-RetreiveaRecord,200,OK,Thread Group 1-1,text,true,,881,214,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1/recbWXrd2plorbwuo,170,0,0
+1647230894722,11,Debug Sampler,200,OK,Thread Group 1-1,text,true,,539,0,1,1,null,0,0,0
+1647230901134,214,T04-Create-Record,422,Unprocessable Entity,Thread Group 1-1,text,false,,879,332,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,213,0,0
+1647230907747,538,T02-GetMetaData,200,OK,Thread Group 1-1,text,true,,1435,196,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,538,0,376
+1647230914704,180,T03-RetreiveaRecord,200,OK,Thread Group 1-1,text,true,,881,214,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1/recbWXrd2plorbwuo,179,0,0
+1647230921248,0,Debug Sampler,200,OK,Thread Group 1-1,text,true,,464,0,1,1,null,0,0,0
+1647230931268,171,T04-Create-Record,422,Unprocessable Entity,Thread Group 1-1,text,false,,879,409,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,171,0,0
+1647230938801,190,T02-GetMetaData,200,OK,Thread Group 1-1,text,true,,1435,196,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,189,0,0
+1647230947725,173,T03-RetreiveaRecord,200,OK,Thread Group 1-1,text,true,,881,214,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1/recbWXrd2plorbwuo,169,0,0
+1647230957829,4,Debug Sampler,200,OK,Thread Group 1-1,text,true,,540,0,1,1,null,0,0,0
+1647230966823,200,T04-Create-Record,422,Unprocessable Entity,Thread Group 1-1,text,false,,879,332,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,199,0,0
+1647230975137,623,T02-GetMetaData,200,OK,Thread Group 1-1,text,true,,1435,196,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,620,0,461
+1647230984348,180,T03-RetreiveaRecord,200,OK,Thread Group 1-1,text,true,,881,214,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1/recbWXrd2plorbwuo,179,0,0
+1647230991246,4,Debug Sampler,200,OK,Thread Group 1-1,text,true,,464,0,1,1,null,0,0,0
+1647230998484,184,T04-Create-Record,422,Unprocessable Entity,Thread Group 1-1,text,false,,879,409,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,183,0,0
+1647231005315,168,T02-GetMetaData,200,OK,Thread Group 1-1,text,true,,1435,196,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,167,0,0
+1647231012880,173,T03-RetreiveaRecord,200,OK,Thread Group 1-1,text,true,,881,214,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1/recbWXrd2plorbwuo,173,0,0
+1647231019244,1,Debug Sampler,200,OK,Thread Group 1-1,text,true,,540,0,1,1,null,0,0,0
+1647231027852,198,T04-Create-Record,422,Unprocessable Entity,Thread Group 1-1,text,false,,879,409,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,197,0,0
+1647231036433,580,T02-GetMetaData,200,OK,Thread Group 1-1,text,true,,1435,196,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,580,0,406
+1647231043378,181,T03-RetreiveaRecord,200,OK,Thread Group 1-1,text,true,,881,214,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1/recbWXrd2plorbwuo,181,0,0
+1647231052410,9,Debug Sampler,200,OK,Thread Group 1-1,text,true,,540,0,1,1,null,0,0,0
+1647231060788,208,T04-Create-Record,422,Unprocessable Entity,Thread Group 1-1,text,false,,879,406,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,207,0,0
+1647231068569,204,T02-GetMetaData,200,OK,Thread Group 1-1,text,true,,1435,196,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,203,0,0
+1647231076393,209,T03-RetreiveaRecord,200,OK,Thread Group 1-1,text,true,,881,214,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1/recbWXrd2plorbwuo,208,0,0
+1647231084533,1,Debug Sampler,200,OK,Thread Group 1-1,text,true,,537,0,1,1,null,0,0,0
+1647231094836,314,T04-Create-Record,422,Unprocessable Entity,Thread Group 1-1,text,false,,879,409,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,313,0,0
+1647231103686,552,T02-GetMetaData,200,OK,Thread Group 1-1,text,true,,1435,196,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,552,0,405
+1647231111920,222,T03-RetreiveaRecord,200,OK,Thread Group 1-1,text,true,,881,214,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1/recbWXrd2plorbwuo,222,0,0
+1647231121449,1,Debug Sampler,200,OK,Thread Group 1-1,text,true,,540,0,1,1,null,0,0,0
+1647231127710,205,T04-Create-Record,422,Unprocessable Entity,Thread Group 1-1,text,false,,879,332,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,205,0,0
+1647231134007,168,T02-GetMetaData,200,OK,Thread Group 1-1,text,true,,1435,196,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,168,0,0
+1647231141579,151,T03-RetreiveaRecord,200,OK,Thread Group 1-1,text,true,,881,214,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1/recbWXrd2plorbwuo,151,0,0
+1647231149119,1,Debug Sampler,200,OK,Thread Group 1-1,text,true,,464,0,1,1,null,0,0,0
+1647231155406,189,T04-Create-Record,422,Unprocessable Entity,Thread Group 1-1,text,false,,879,409,1,1,https://api.airtable.com/v0/appidkUARk5o1CO66/PT-Scenario-1,188,0,0
